@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on **c#,JavaScript**
 
+- I began my software development journey in high school, continued in university, and further developed my skills by attending courses related to Frontend and Backend development. Through the "İstanbul Kodluyor" project, as part of the “.NET and Angular Full Stack Developer” training, I effectively applied the knowledge and experience gained in a team-oriented Library Management System project. By closely following technological changes and transforming these changes into successful projects, I aim to advance my career as a continuous learner and developer open to growth, specifically as a .NET and Angular Full Stack Developer.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/kader-ergin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kader ergin" height="30" width="40" /></a>
