@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kader Ergin</h1>
 <h3 align="center">.Net Full Stack Developer</h3>
 
-- 🔭 I’m currently working on **c#,JavaScript**
-
 I began my software development journey in high school, continued in university, and further developed my skills by attending courses related to Frontend and Backend development. Through the "İstanbul Kodluyor" project, as part of the “.NET and Angular Full Stack Developer” training, I effectively applied the knowledge and experience gained in a team-oriented Library Management System project. By closely following technological changes and transforming these changes into successful projects, I aim to advance my career as a continuous learner and developer open to growth, specifically as a .NET and Angular Full Stack Developer.
 
 <h3 align="left">Connect with me:</h3>
