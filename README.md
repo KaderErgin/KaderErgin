@@ -17,8 +17,4 @@ I began my software development journey in high school, continued in university,
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaderergin&show_icons=true&locale=en&layout=compact" alt="kaderergin" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaderergin&show_icons=true&locale=en" alt="kaderergin" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaderergin&" alt="kaderergin" /></p>
